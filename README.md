@@ -1,1 +1,0 @@
-# Prediction-of-Diabetes-using-classification-algorithm
